@@ -1,0 +1,272 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "categorie":"Classics",
+      "description": "A classic novel set in the American South during the 1930s, it explores themes of racial injustice and moral growth through the eyes of a young girl, Scout Finch.",
+      "prix":20,
+      "image":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "page":"100",
+      "orders":"187",
+      "rating":"4.5",
+      "date":"19/12/2001"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "categorie":"Classics",
+      "description": "A dystopian novel depicting a totalitarian society where the government, led by the Party and its leader Big Brother, exercises complete control over its citizens' lives.",
+      "prix":15,
+      "image":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "page":"100",
+      "orders":"111",
+      "rating":"4.4",
+      "date":"07/09/2009"
+    },
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "categorie":"Mystery",
+      "description": "Set in the Roaring Twenties, the novel follows Jay Gatsby's extravagant lifestyle and his unrequited love for Daisy Buchanan, exploring themes of wealth, love, and the American Dream.",
+      "prix":25,
+      "image":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "page":"100",
+      "orders":"77",
+      "rating":"4.3",
+      "date":"12/08/2007"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "categorie":"Mystery",
+      "description": "A classic romantic novel that explores societal expectations, class distinctions, and the evolving relationship between Elizabeth Bennet and Mr. Darcy.",
+      "prix":20,
+      "image":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "page":"100",
+      "orders":"15",
+      "rating":"4.2",
+      "date":"07/11/1999"
+    },
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "categorie":"Horror",
+      "description": "Narrated by the troubled teenager Holden Caulfield, the novel explores themes of alienation and the search for identity as Holden navigates the challenges of adolescence.",
+      "prix":20,
+      "image":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "page":"100",
+      "orders":"80",
+      "rating":"4.1",
+      "date":"21/09/2014"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "categorie":"Classics,Horror,Fantasy",
+      "description": "The first book in the popular Harry Potter series, it introduces the young wizard Harry Potter as he discovers his magical abilities and begins his journey at Hogwarts School of Witchcraft and Wizardry.",
+      "prix":19,
+      "image":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "page":"100",
+      "orders":"210",
+      "rating":"4.8",
+      "date":"01/09/2003"
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "categorie":"Fantasy",
+      "description": "A fantasy epic comprising three volumes—The Fellowship of the Ring, The Two Towers, and The Return of the King—that follows the quest to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
+      "prix":30,
+      "image":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "image1":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "image2":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "image3":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "image4":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "image5":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "page":"100",
+      "orders":"180",
+      "rating":"4.3",
+      "date":"07/07/2015"
+    }
+    ,
+    {
+      "id": 8,
+      "title": "Zikola land",
+      "author": "amrou abed el hamid",
+      "categorie":"Fantasy",
+      "description": "A fantasy novel that precedes The Lord of the Rings, it follows the hobbit Bilbo Baggins on a quest to reclaim treasure guarded by the dragon Smaug.",
+      "prix":22,
+      "image":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "image1":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "image2":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "image3":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "image4":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "image5":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "page":"20",
+      "orders":"180",
+      "rating":"4.9",
+      "date":"07/02/2003"
+    }
+  ],
+  "categories": [
+    {
+      "id":"1",
+      "categorie":"Classics"
+    },
+    {
+      "id":"2",
+      "categorie":"Mystery"
+    },
+    {
+      "id":"3",
+      "categorie":"Horror"
+    },
+    {
+      "id":"4",
+      "categorie":"Fantasy"
+    }
+    
+
+  ],
+  "Classics": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "A classic novel set in the American South during the 1930s, it explores themes of racial injustice and moral growth through the eyes of a young girl, Scout Finch.",
+      "prix":"20DT",
+      "image":"https://m.media-amazon.com/images/I/51tDHl8Z7cL._SY342_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "A dystopian novel depicting a totalitarian society where the government, led by the Party and its leader Big Brother, exercises complete control over its citizens' lives.",
+      "prix":"15DT",
+      "image":"https://m.media-amazon.com/images/I/71FxgtFKcQL._SY466_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first book in the popular Harry Potter series, it introduces the young wizard Harry Potter as he discovers his magical abilities and begins his journey at Hogwarts School of Witchcraft and Wizardry.",
+      "prix":"19DT",
+      "image":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "page":"100"
+    }
+  ],
+  "Mystery": [
+    {
+      "id": 3,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "Set in the Roaring Twenties, the novel follows Jay Gatsby's extravagant lifestyle and his unrequited love for Daisy Buchanan, exploring themes of wealth, love, and the American Dream.",
+      "prix":"25DT",
+      "image":"https://m.media-amazon.com/images/I/61z0MrB6qOS._SY342_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "A classic romantic novel that explores societal expectations, class distinctions, and the evolving relationship between Elizabeth Bennet and Mr. Darcy.",
+      "prix":"20DT",
+      "image":"https://m.media-amazon.com/images/I/71+NGGc4GmS._SY342_.jpg",
+      "page":"100"
+    }
+  ]
+  ,
+  "Horror": [
+    {
+      "id": 5,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "Narrated by the troubled teenager Holden Caulfield, the novel explores themes of alienation and the search for identity as Holden navigates the challenges of adolescence.",
+      "prix":"20DT",
+      "image":"https://m.media-amazon.com/images/I/518dVCGFuhL._SY445_SX342_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first book in the popular Harry Potter series, it introduces the young wizard Harry Potter as he discovers his magical abilities and begins his journey at Hogwarts School of Witchcraft and Wizardry.",
+      "prix":"19DT",
+      "image":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "page":"100"
+    }
+  ]
+  ,
+  "Fantasy": [
+    {
+      "id": 6,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "description": "The first book in the popular Harry Potter series, it introduces the young wizard Harry Potter as he discovers his magical abilities and begins his journey at Hogwarts School of Witchcraft and Wizardry.",
+      "prix":"19DT",
+      "image":"https://m.media-amazon.com/images/I/51Ppi-8kISL._SY445_SX342_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 7,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "A fantasy epic comprising three volumes—The Fellowship of the Ring, The Two Towers, and The Return of the King—that follows the quest to destroy the One Ring and save Middle-earth from the dark lord Sauron.",
+      "prix":"30DT",
+      "image":"https://m.media-amazon.com/images/I/41C34DME2eL._SY445_SX342_.jpg",
+      "page":"100"
+    },
+    {
+      "id": 8,
+      "title": "Zikola land",
+      "author": "amrou abed el hamid",
+      "description": "A fantasy novel that precedes The Lord of the Rings, it follows the hobbit Bilbo Baggins on a quest to reclaim treasure guarded by the dragon Smaug.",
+      "prix":"22DT",
+      "image":"//upload.wikimedia.org/wikipedia/ar/9/98/%D8%A3%D8%B1%D8%B6_%D8%B2%D9%8A%D9%83%D9%88%D9%84%D8%A7.jpg",
+      "page":"100"
+    }
+  ]
+
+  
+  
+}

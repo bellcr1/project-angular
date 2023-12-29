@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  
+  <body>
+    
+        
+
+<div>
+    <div>
+        <div>
+            <div>
+            <div id="basket" class="col-lg-9">
+              <div class="box">
+                <form method="post" action="checkout1.html">
+                  <h1>Shopping cart</h1>
+                  <p class="text-muted">You currently have n item(s) in your cart.</p>
+                  <div class="table-responsive">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <th colspan="2">Product</th>
+                          <th>Quantity</th>
+                          <th>Unit price</th>
+                          <th>Discount</th>
+                          <th colspan="2">Total</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr *ngFor="let b of carts">
+                          <td><img src="{{b.item.image}}" style="min-width: 96px; height: 96px;" class="img-md img-thumbnail" alt="White Blouse Armani"></td>
+                          <td>{{b.item.name}}</td>
+                          
+                          <td>{{b.item.prix}}</td>
+                          <td>
+                            <input type="number" value="{{b.quantity}}" class="form-control"  min="1" >
+                          </td>
+                          <td>$0.00</td>
+                          <td>{{b.item.prix * b.quantity}}</td>
+                          <td><i class="fa fa-trash-o"></i></td>
+                        </tr>
+                      </tbody>
+                      <tfoot>
+                        <tr>
+                          <th colspan="5">Total</th>
+                          <th colspan="2">{{total}}</th>
+                        </tr>
+                      </tfoot>
+                    </table>
+                  </div>
+                  <!-- /.table-responsive-->
+                  <div class="box-footer d-flex justify-content-between flex-column flex-lg-row">
+                    <div class="left"><a href="category.html" class="btn btn-outline-secondary"><i class="fa fa-chevron-left"></i> Continue shopping</a></div>
+                    <div class="right">
+                      <button class="btn btn-outline-secondary"><i class="fa fa-refresh"></i> Update cart</button>
+                      <button type="submit" class="btn btn-primary">Proceed to checkout <i class="fa fa-chevron-right"></i></button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+              
+                
+              </div>
+            </div>
+
+            
+              
+            </div>
+
+          </div>
+        </div>
+
+   
+  </body>
+</html>

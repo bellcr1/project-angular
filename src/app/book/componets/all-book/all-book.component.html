@@ -1,0 +1,32 @@
+<div class="box mt-5">
+    <div class="my-2 w-25">
+        <label for="" class="my-1" >categories</label>
+        <select class="form-control" (change)="filtercategories($event)">
+            <option value="Books" >ALL</option>
+            <option value="{{c.categorie}}" *ngFor="let c of cat">{{c.categorie}}</option>
+        </select>
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-sm-12" *ngFor="let b of tab" >
+            <div class="item" >
+                <div routerLink="/info/{{b.id}}">
+                    <img src="{{b.image}}" alt="">
+                    <div class="body">
+                        <h4 >{{b.title}}</h4>
+                        <p>{{b.description}}</p>
+                    </div>
+                </div>
+                <div class="px-3 mb-2 d-flex justify-content-between align-items-center">
+                    <button class="btn btn-success" *ngIf="!test" (click)="test = true" >add</button>
+                    <div class="d-flex w-50 " *ngIf="test == true" >
+                        <input type="number" class="form-control" [(ngModel)]="size">
+                        <button class="btn btn-daner" (click)="addcarts(b);test=false">add</button>
+                    </div>
+                    <span >{{b.prix}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
